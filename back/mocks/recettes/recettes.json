@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "pain",
+    "ingredient": "farine, eau, sel, levure",
+    "cuisson": "10 minute"
+  },
+  {
+    "id": 2,
+    "name": "brioche",
+    "ingredient": "farine, eau, sel, levure, sucre, lait",
+    "cuisson": "15 minute"
+  }
+]
